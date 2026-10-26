@@ -585,20 +585,27 @@ The experiments showed that longer sequences can increase inference time and tha
 
 Overall, this project strengthened my understanding of Transformer architecture, practical model usage, performance evaluation, and the limitations that must be considered when developing real-world NLP applications.
 
-## 👤 Author
 
-**Name:** Santosh Verma
-**Project:** Transformer Architecture & NLP Practical  
-
----
-
+ 
 <div align="center">
 
-**⭐ If you find this project useful, consider giving the repository a star.**
+## 👨‍💻 About Me
+
+### **Santosh Verma**
+
+### **Project:** Transformer Architecture & NLP Practical  
+
+
+**Data Analyst | Data Scientist**
+
+Learning and building projects in Data Science, Machine Learning, Deep Learning, Computer Vision and Natural Language Processing.
+
+**Explore • Learn • Build • Improve**
+
+<img src="https://img.shields.io/badge/Thank%20You-For%20Visiting-8A2BE2?style=for-the-badge" alt="Thank You for Visiting" />
 
 </div>
 
----
 
 <div align="center">
 
