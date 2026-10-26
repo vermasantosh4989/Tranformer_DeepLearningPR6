@@ -219,15 +219,6 @@ Transformer models can support useful NLP workflows, but longer inputs can incre
 - Add a simple user interface for entering text and viewing all outputs.
 - Validate factual claims using reliable external sources.
 
----
-
-# 🧠 Overall Final Conclusion
-
-This practical notebook connected Transformer theory with hands-on NLP experiments. Across six tasks, I explored tokenization, self-attention, multi-head attention, positional encoding, encoder and decoder components, cross-attention, text generation, and model evaluation. I also used DistilBERT, GPT-2, and T5-small to investigate sentiment classification, generation, summarization, and French translation.
-
-The experiments showed that longer sequences can increase inference time and that KV-cache can improve generation efficiency. The mini text toolkit demonstrated how pretrained models can be combined into a single application. At the same time, the project highlighted the need to handle long inputs carefully, evaluate outputs, and verify factual claims.
-
-Overall, this project strengthened my understanding of Transformer architecture, practical model usage, performance evaluation, and the limitations that must be considered when developing real-world NLP applications.
 
 ---
 
@@ -586,15 +577,13 @@ Do not guess package versions. Generate the file from the working environment an
 
 ---
 
-##  Final Notes for Reviewers
+# 🧠 Overall Final Conclusion
 
-This project demonstrates conceptual understanding and practical experimentation with Transformer models. The notebook contains the implementation and outputs, while the README summarizes the objectives, findings, limitations, and steps needed to reproduce the work.
+This practical notebook connected Transformer theory with hands-on NLP experiments. Across six tasks, I explored tokenization, self-attention, multi-head attention, positional encoding, encoder and decoder components, cross-attention, text generation, and model evaluation. I also used DistilBERT, GPT-2, and T5-small to investigate sentiment classification, generation, summarization, and French translation.
 
-The benchmark numbers describe one recorded run. Small differences may occur on another computer or with different package versions. The screenshot paths are naming conventions and should be checked against the actual uploaded images.
+The experiments showed that longer sequences can increase inference time and that KV-cache can improve generation efficiency. The mini text toolkit demonstrated how pretrained models can be combined into a single application. At the same time, the project highlighted the need to handle long inputs carefully, evaluate outputs, and verify factual claims.
 
-The reflection should describe the experiments that were actually run, not theoretical results that were never measured. The purpose of the practical is to understand how the models behave, evaluate their outputs, and explain the trade-offs involved in real NLP applications.
-
----
+Overall, this project strengthened my understanding of Transformer architecture, practical model usage, performance evaluation, and the limitations that must be considered when developing real-world NLP applications.
 
 ## 👤 Author
 
